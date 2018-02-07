@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>car-shape-city</title>
+  <g>
+    <circle class="a" cx="15.27" cy="37.04" r="4.46"/>
+    <circle class="a" cx="47.27" cy="37.04" r="4.46"/>
+    <line class="a" x1="42.5" y1="37.5" x2="23.5" y2="37.5"/>
+    <path class="a" d="M52.5,37.5h1c3,0,3-5,3-7,0-1-2-5-15-5h-21c-2,0-4-6-4-6"/>
+    <path class="a" d="M5.5,36.5v-5c0-2,3.51-4.06,4-6a32.24,32.24,0,0,1,2-6,114.85,114.85,0,0,1,17-1c5,0,13,7,13,7"/>
+    <line class="a" x1="10.5" y1="37.5" x2="3.5" y2="36.5"/>
+    <polyline class="a" points="24.5 18.5 26.5 25.5 26.5 34.5"/>
+    <line class="a" x1="30.5" y1="29.5" x2="32.5" y2="29.5"/>
+  </g>
+</svg>

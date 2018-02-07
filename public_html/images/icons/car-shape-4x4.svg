@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>car-shape-4x4</title>
+  <g>
+    <circle class="a" cx="11.15" cy="40.21" r="4.85"/>
+    <circle class="a" cx="49.12" cy="40.21" r="5.12"/>
+    <line class="a" x1="44" y1="40.67" x2="20" y2="40.67"/>
+    <path class="a" d="M55,40.67h1c3,0,3-2,3-4a3.7,3.7,0,0,0-2-3v-4c0-2-8.59-3-15-3H11a53.84,53.84,0,0,1-8-1"/>
+    <path class="a" d="M6,40.67l-5-1v-5c0-2,2-6,2-8,0-4,3-10,3-10s19-1,28,0c3,.33,10,10,10,10"/>
+    <polyline class="a" points="27 16.67 29 25.67 29 37.67"/>
+    <line class="a" x1="33" y1="31.67" x2="35" y2="31.67"/>
+    <line class="a" x1="18.42" y1="31.67" x2="20.58" y2="31.67"/>
+    <line class="a" x1="15" y1="16.67" x2="14" y2="26.67"/>
+    <line class="a" x1="12" y1="15.67" x2="12" y2="14.67"/>
+    <line class="a" x1="29" y1="15.67" x2="29" y2="14.67"/>
+    <line class="a" x1="14" y1="26.67" x2="14" y2="32.17"/>
+  </g>
+</svg>

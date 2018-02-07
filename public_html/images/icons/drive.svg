@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .a, .b {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .a {
+        stroke: #ba0c2f;
+      }
+
+      .b {
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <title>drive</title>
+  <g>
+    <circle class="a" cx="12" cy="37" r="10.5" transform="translate(-20.36 15.42) rotate(-38.33)"/>
+    <circle class="a" cx="12" cy="37" r="2.5" transform="translate(-20.36 15.42) rotate(-38.33)"/>
+    <circle class="b" cx="43" cy="17" r="2.5"/>
+    <circle class="b" cx="43" cy="9.49" r="0.01"/>
+    <circle class="b" cx="37.69" cy="11.69" r="0.01" transform="translate(2.77 30.08) rotate(-45)"/>
+    <circle class="b" cx="35.5" cy="17" r="0.01"/>
+    <circle class="b" cx="37.69" cy="22.31" r="0.01" transform="translate(-4.73 33.19) rotate(-45)"/>
+    <circle class="b" cx="43" cy="24.5" r="0.01"/>
+    <circle class="b" cx="48.31" cy="22.31" r="0.01" transform="translate(-1.62 40.69) rotate(-45)"/>
+    <circle class="b" cx="50.51" cy="17" r="0.01"/>
+    <circle class="b" cx="48.31" cy="11.69" r="0.01" transform="translate(5.88 37.58) rotate(-45)"/>
+    <circle class="b" cx="43" cy="17" r="11.5"/>
+    <path class="a" d="M17.9,39.74A6.47,6.47,0,0,1,16,42.1"/>
+    <path class="a" d="M6.9,41a6.5,6.5,0,1,1,11.56-4.74"/>
+    <circle class="b" cx="52.5" cy="52.5" r="6"/>
+    <line class="b" x1="31.5" y1="6.5" x2="4.5" y2="29.5"/>
+    <line class="b" x1="58.5" y1="16.5" x2="58.5" y2="52.5"/>
+    <line class="b" x1="10.5" y1="47.5" x2="51.5" y2="58.5"/>
+    <line class="b" x1="52.5" y1="52.5" x2="52.5" y2="52.5"/>
+    <circle class="b" cx="43" cy="17" r="15.5"/>
+    <path class="b" d="M10.25,47.36a10.5,10.5,0,0,1-5.46-18"/>
+  </g>
+</svg>

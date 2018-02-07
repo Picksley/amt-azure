@@ -1,0 +1,4757 @@
+@media (min-width:1513px) and (max-width:1700px) {
+.hm_takealookcontt h3 {
+    font-size: 21px;
+}
+
+button.hm_redbtns {
+	padding: 13px 18px;
+}
+
+.hm_takealookcontt p {
+	min-height: 187px;
+}
+}
+
+
+@media (min-width:1200px) and (max-width:1512px) {
+
+.hm_blog {
+    margin: 0px 23px;
+}
+.blog_catlable {
+    left: 23px;
+}
+
+
+
+/***homePage Lovepreet***/
+
+.hmpg_support {
+	padding: 158px 0 45px 0;
+}
+
+.hm_supotinfo {
+	padding: 0 25px;
+}
+
+.hm_supotinfo::after {
+	right: -13px;
+}
+
+.hm_leasingamt {
+	padding: 92px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 35px;
+}
+
+.hm_cvofferinfo h2 {
+	font-size: 35px;margin: 40px 0 11px 0;
+}
+
+.hm_oursoinfo h2 {font-size: 35px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 35px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 35px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 21px;
+	width: 55%;
+}
+
+.hm_leasingamtinfo p {
+	width: 77%;
+}
+
+.hm_carvanofr {
+	padding: 95px 0 95px 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 21px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 95px 0 95px 0;
+}
+
+.item_spofrname h4 {
+	font-size: 20px;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 15px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 25px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 44px 44px 44px;
+}
+
+.hm_takealookcontt h3 {
+	font-size: 21px;
+}
+
+.hm_takealookcontt p {
+	min-height: 155px;
+}
+
+button.hm_redbtns {
+	padding: 16px 20px;
+}
+
+.hm_leasprocss {
+	padding: 95px 0 65px 0;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 21px;
+	margin: 0px 0 95px 0;
+}
+
+.hm_brandsinfo {
+	width: 100%;
+	margin: 0 auto;
+}
+
+/***homePage-end Lovepreet***/
+
+
+
+
+.container{ width:1170px;}
+.menu .navbar-nav > li > a {
+    padding: 15px 6px;
+    line-height:56px;
+    font-size: 13px;
+}
+.navbar-brand > img {
+    width: 70px; margin-top:10px;
+}
+
+.top_phone {
+    width: 180px; margin-top:12px;
+}
+.showroom_drop button {
+    width: 215px;
+}
+.my_showroom .dropdown-menu {
+    min-width: 215px;
+}
+
+.top_phone h4 {
+    font-size: 22px;
+}
+.top_phone p {
+    font-size: 15px;
+}
+.menu .navbar-nav .dropdown-menu {
+    padding: 20px;
+}
+.showbtn ul li {
+    padding: 7px 16px;
+}
+.lis-des {
+    width: 60%;
+}
+.lis-des h6 {
+    font-size: 14px;
+}
+.lis-des p {
+    font-size: 13px;
+}
+.customer-des {
+    margin-top: 0;
+}
+
+.home_banner_des {
+    width: 85%;
+}
+
+.form-inline .modal-select {
+    width: 123px;
+}
+
+
+
+}
+
+/***homePage Lovepreet***/
+@media (max-width:1480px) {
+
+.tklokimg2 {
+	bottom: -5px;
+}
+}
+
+/***homePage-end Lovepreet***/
+
+@media (min-width:992px) and (max-width:1199px) {
+.hm_blog {
+    width: 245px;
+    margin: 0px 25px;
+}
+.blog_catlable {
+    left: 28px;
+  }
+
+
+
+
+/***homePage Lovepreet***/
+
+.hm_supotinfo {
+	padding: 0 8px;
+}
+
+.hm_supotinfo p {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.hm_supotinfo h4 {
+	margin: 20px 0 11px 0;
+}
+
+.hm_supotinfo::after {
+	right: -11px;
+}
+
+.hm_leasingamt {
+	padding: 52px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 30px;
+}
+
+.hm_cvofferinfo h2 {
+	font-size: 30px;margin: 40px 0 11px 0;
+}
+
+.hm_carvanofr .col-lg-6:first-child .hm_cvofferinfo::after {
+	right: -14px;
+}
+
+.hm_oursoinfo h2 {font-size: 30px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 30px;
+	margin-bottom: 45px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 30px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 18px;
+	width: 62%;
+}
+
+.hm_leasingamtinfo p {
+	width: 87%;
+}
+
+.hm_carvanofr {
+	padding: 55px 0 85px 0;
+}
+
+.item_spofrname h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.hm_carvanofr .col-lg-6:first-child figure img {
+	width: 350px;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure img {
+	width: 380px;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure {
+	padding: 68px 0 0 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 18px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 65px 0 65px 0;
+}
+
+.item_spofrname {
+	padding: 20px 20px 0 20px;
+	min-height: 110px;
+}
+
+.item_spofrname h5 {
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.hm_oursoinfo .normal-imglist .item a .hm_oursodtl figure img {
+	width: 100%;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 10px;
+}
+
+.apofr_price h4 {
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	line-height: 28px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 10px 0;
+	height: 186px;
+}
+
+.hm_takealook {
+	padding: 65px 0 70px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 20px 30px 20px;
+}
+.hm_takealookcontt h3 {
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.hm_takealookcontt p {
+	min-height: 185px;
+}
+
+button.hm_redbtns {
+	padding: 16px 15px;
+	letter-spacing: 1px;
+	font-size: 11.5px;
+}
+
+.hm_leasprocss {
+	padding: 65px 0 5px 0;
+}
+
+.hm_brandsbg {
+	padding: 55px 0 60px 0;
+}
+
+
+.hm_lstepimg {
+	padding: 0 0 0 20px;
+}
+
+.hm_lstepimg img {
+	width: 300px;
+}
+
+.hm_leasprocssinfo .hmleasing_steps:nth-child(6) .hm_lstepimg img {
+	width: 200px;
+}
+
+.hmleasing_steps {
+	padding: 0 0 40px 0;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 18px;
+	margin: 0px 0 65px 0;
+}
+
+.hm_stillinfo {
+	width: 390px;
+	height: 233px;
+	padding: 35px 0 45px 0;
+}
+
+.hm_stillinfo p {
+	margin: 25px 0 25px 0px;
+}
+
+.hm_stillinfo h3 {
+	font-size: 25px;
+	margin: 0px 0 24px 0px;
+}
+
+.hm_lstepinfo h5 {
+	padding: 0 0 4px 50px;
+}
+
+.hm_lstepinfo h4 {
+	font-size: 21px;
+	margin: 0 0 8px 16px;
+	line-height: 29px;
+}
+
+.hm_lstepinfo p {
+	margin: 0 0 15px 16px;
+	width:100%;
+}
+
+.hm_carbrands {
+	margin: 0 auto 60px auto;
+}
+
+
+
+/***homePage-end Lovepreet***/
+
+
+
+
+.home_banner_des {
+    width: 100%;
+}
+
+.form-inline .modal-select {
+    width: 118px;
+}
+
+
+.veh_sol {
+    padding: 40px 50px;
+}
+.customer-des {
+    margin-top: 0;
+}
+.customer-des p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #33414e;
+    margin-bottom: 15px;
+}
+
+#example .mSButtons.mSNext {
+    right: 11%;
+    left: auto;
+    bottom: 30px;
+}
+
+.about_blok1 header h2 {
+    width: 56%;
+}
+.about_blok1 header p {
+    width: 70%;
+}
+.padd-rtl {
+    padding-right: 50px;
+}
+.about_mg {
+    padding-left: 30px;
+}
+.about_inner .aboutwe {
+    padding: 48px 0px 99px 30px;
+}
+.our_partner {
+    padding-left: 60px;
+}
+.Accr_inr {
+    width: 74%;
+}
+
+
+.menu .navbar-nav > li > a {
+    padding: 15px 6px;
+    line-height: 56px;
+    font-size: 12px;
+}
+.navbar-brand > img {
+    width: 70px; margin-top:10px;
+}
+
+.top_phone {
+    display:none;
+}
+.showroom_drop button {
+    width: 215px;
+}
+.my_showroom .dropdown-menu {
+    min-width: 215px;
+}
+
+.top_phone h4 {
+    font-size: 22px;
+}
+.top_phone p {
+    font-size: 15px;
+}
+.menu .navbar-nav .dropdown-menu {
+    padding: 20px;
+}
+.showbtn ul li {
+    padding: 7px 16px;
+}
+.lis-des {
+    width: 60%;
+}
+.lis-des h6 {
+    font-size: 14px;
+}
+.lis-des p {
+    font-size: 13px;
+}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+.hm_blog {
+    width: 290px;
+    margin: 0px 25px;
+	margin-bottom: 30px;
+}
+.blog_catlable {
+    left: 28px;
+  }
+
+.hm-blogcnter {
+    margin-top: 0;
+}
+
+
+
+
+
+/***homePage Lovepreet***/
+
+.hm_supotinfo {
+	padding: 0 0px;
+}
+
+.hm_supotinfo p {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.hmpg_support {
+	padding: 158px 0 25px 0;
+}
+
+.hm_supotinfo h4 {
+	margin: 20px 0 11px 0;
+}
+
+.hm_supotinfo::after {
+	right: -13px;
+}
+
+.hm_leasingamt {
+	padding: 35px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+
+.hm_cvofferinfo h2 {
+	font-size: 24px;margin: 25px 0 11px 0;
+}
+
+.hm_carvanofr .col-lg-6:first-child .hm_cvofferinfo::after {
+	right: -14px;
+}
+
+
+.hm_oursoinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 24px;
+}
+
+.hm_brandsinfo h2 {
+	font-size: 34px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 24px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 16px;
+	width: 71%;
+	line-height: 26px;
+}
+
+.hm_leasingamtinfo p {
+	width: 95%;
+}
+
+.hm_viewspobtn {
+	padding: 35px 0 0 0;
+}
+
+.hm_carvanofr {
+	padding: 20px 0 65px 0;
+}
+
+.item_spofrname h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.hm_carvanofr .col-lg-6:first-child figure img {
+	width: 290px;
+}
+
+.hm_cvofferinfo p {
+	font-size: 15px;
+	line-height: 24px;
+	width: 92%;
+	margin: 0 auto 35px auto;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure img {
+	width: 320px;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure {
+	padding: 75px 0 0 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 18px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 55px 0 55px 0;
+}
+
+.item_spofrname {
+	padding: 20px 20px 0 20px;
+	min-height: 110px;
+}
+
+.item_spofrname h5 {
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.hm_oursoinfo .normal-imglist .item a .hm_oursodtl figure img {
+	width: 100%;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 10px;
+}
+
+.apofr_price h4 {
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	line-height: 28px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+	height: 160px;
+}
+
+.hm_takealookdtl figure .tklokimg img {
+	height: auto;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 0px 0;
+	height: 166px;
+}
+
+.hm_takealookdtl {
+	margin:0;
+}
+
+.hm_brandsbg {
+	padding: 55px 0 60px 0;
+}
+
+.hm_takealook {
+	padding: 55px 0 60px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 20px 30px 20px;
+}
+.hm_takealookcontt h3 {
+	font-size: 15px;
+	line-height: 21px;
+}
+
+.hm_takealookcontt p {
+	min-height: 195px;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+button.hm_redbtns {
+	padding: 16px 10px;
+	letter-spacing: 0.5px;
+	font-size: 11px;
+}
+
+.hm_leasprocss {
+	padding: 40px 0 5px 0;
+}
+
+.hm_lstepinfo h5 {
+	padding: 0 0 4px 50px;
+}
+
+.hm_lstepinfo h4 {
+	font-size: 21px;
+	margin: 0 0 8px 16px;
+	line-height: 29px;
+}
+
+.hm_lstepimg {
+	padding: 0 0 0 20px;
+}
+
+.hm_lstepimg img {
+	width: 250px;
+	margin: 50px 0 0 0;
+}
+
+.hm_leasprocssinfo .hmleasing_steps:nth-child(6) .hm_lstepimg img {
+	width: 170px;
+}
+
+.hmleasing_steps {
+	padding: 0 0 40px 0;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 18px;
+	margin: 0px 0 65px 0;
+}
+
+.hm_stillinfo {
+	width: 340px;
+	height: 223px;
+	padding: 27px 0 45px 0;
+}
+
+.hm_stillinfo p {
+	margin: 25px 0 25px 0px;
+}
+
+.hm_stillinfo h3 {
+	font-size: 25px;
+	margin: 0px 0 24px 0px;
+}
+
+.hm_lstepinfo p {
+	margin: 0 0 15px 16px;
+	width:95%;
+}
+
+.hm_carbrands .col-lg-2 {
+	width: 130px;
+}
+
+.hm_carbrands {
+	margin: 0 auto 60px auto;
+}
+
+
+.hm_takealookinfo h2 {
+	font-size: 34px;
+}
+
+
+/***homePage-end Lovepreet***/
+
+
+
+
+.home_banner_des .page-title {
+    margin-top: 45px;
+}
+
+
+.form-inline .modal-select {
+    width: 282px;
+    margin-bottom: 15px;
+}
+
+
+.home_banner_des {
+    width: 100%;
+}
+.page-title h1 {
+    font-size: 42px;
+}
+.home_banner_des .page-title p {
+    width: 94%;
+}
+
+
+.footer-single {
+    margin-bottom: 40px;
+}
+.author_text {
+    text-align: center; padding-top:0px;
+}
+
+.customer-des {
+    margin-top: 0;
+}
+.customer-des h6 {
+    font-size: 12px;
+ }
+.customer-des p {
+    font-size: 12px;
+    line-height: 15px;
+    color: #33414e;
+    margin-bottom: 10px;
+}
+.title2 h1 {
+    font-size: 32px;
+}
+.Accr_inr_box{ width:100%;}
+
+.twopart .inner_box1 {
+    border-bottom: 1px solid #e4e5e6;
+	border-right:none;
+}
+
+.about_blok1 header h2 {
+    width: 75%;
+}
+.about_blok1 header p {
+    width: 86%;
+}
+.padd-rtl {
+    padding-right: 0;
+}
+.about_mg {
+    padding-left: 0;
+    text-align: center;
+}
+.our_partner {
+    padding-left: 0;
+    margin-top: 0;
+}
+
+
+.navbar-brand {
+    float: none;
+}
+.navbar-brand > img {
+    width: 80px;
+}
+.middle-head {
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+}
+.menu .navbar-nav .dropdown-menu {
+    padding: 10px;
+}
+.ldrop {
+    min-height: 243px;
+}
+
+}
+
+@media (max-width:767px) {
+
+.simple_carousel .frame {
+    height: 645px;
+}
+.btn-clear {
+    display: block;
+    margin: 15px auto auto;
+}
+.vr_slider {
+    padding-bottom: 0 !important;
+}
+
+
+.hm_blog {
+    width:100%;
+    margin: 0px 0px 30px;
+}
+.blog_catlable {
+    left: 15px; border-top-left-radius: 0; border-bottom-left-radius: 0;
+  }
+
+.hm-blogcnter {
+    margin-top: 0;
+}
+
+.main-section {
+    padding: 70px 0px 75px;
+}
+
+
+
+/***homePage Lovepreet***/
+
+.hm_supotinfo {
+	padding: 0 0px;
+	margin: 0 0 40px 0;
+}
+
+.hm_supotinfo p {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.hmpg_support {
+	padding: 50px 0 5px 0;
+}
+
+.hm_supotinfo h4 {
+	margin: 20px 0 11px 0;
+}
+
+.hm_supotinfo::after {
+	right: -13px;
+	background: none;
+}
+
+
+
+.hm_leasingamt {
+	padding: 35px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+
+.hm_cvofferinfo h2 {
+	font-size: 24px;margin: 25px 0 11px 0;
+}
+
+.hm_oursoinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 24px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 16px;
+	width: 71%;
+	line-height: 26px;
+}
+
+.hm_leasingamtinfo p {
+	width: 98%;
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.hm_viewspobtn {
+	padding: 35px 0 0 0;
+}
+
+.hm_carvanofr {
+	padding: 20px 0 45px 0;
+	background-size: 100% 17%;
+}
+
+.hm_carvanofr .col-lg-6:first-child .hm_cvofferinfo::after {
+	background:none;
+}
+
+.item_spofrname h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.hm_carvanofr .col-lg-6:first-child figure img {
+	width: 280px;
+}
+
+.hm_cvofferinfo p {
+	font-size: 15px;
+	line-height: 24px;
+	width: 98%;
+	margin: 0 auto 35px auto;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure img {
+	width: 290px;
+}
+
+
+.hm_carvanofr .col-lg-6:last-child figure {
+	padding: 75px 0 0 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 18px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 35px 0 35px 0;
+}
+
+.item_spofrname {
+	padding: 20px 5px 0 5px;
+	min-height: inherit;
+}
+
+.apofr_price {
+	padding: 15px 5px 0 5px;
+}
+
+.item_spofrname h5 {
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.hm_oursoinfo .normal-imglist .item a .hm_oursodtl figure img {
+	width: 100%;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 10px 0 0px;
+	padding: 15px 0 20px 15px;
+}
+
+.hm_oursodtl:hover {
+	transition: all 0.4s ease;
+	box-shadow: 1px 7px 10px 2px rgba(0,0,0,0.2);
+}
+
+
+.apofr_price h4 {
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	line-height: 28px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+	height: auto;
+}
+
+.hm_takealookdtl figure .tklokimg img {
+	height: auto;
+	display: none;
+}
+
+.tklokimg1 {
+	bottom: -2px;display: none;
+}
+
+.tklokimg1 {
+	bottom: -2px;display: none;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+	display: none;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 0px 0;
+	height: auto;
+}
+
+.hm_takealookdtl {
+	margin: 0 0 50px 0;
+}
+
+.hm_takealook {
+	padding: 55px 0 5px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 20px 30px 20px;
+}
+.hm_takealookcontt h3 {
+	font-size: 15px;
+	line-height: 21px;
+}
+
+.hm_takealookcontt p {
+	min-height: inherit;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+button.hm_redbtns {
+	padding: 16px 15px;
+	letter-spacing: 0.5px;
+	font-size: 11px;
+}
+
+.hm_leasprocss {
+	padding: 40px 0 5px 0;
+}
+
+.hm_lstepinfo h5 {
+	padding: 0 0 4px 50px;
+	display: inline-block;
+}
+
+.hm_lstepinfo h4 {
+	font-size: 21px;
+	margin: 0 0 8px 16px;
+	line-height: 29px;
+}
+
+.hm_lstepimg {
+	padding: 0 0 0 20px;
+}
+
+.hm_lstepimg img {
+	width: 200px;
+	margin: 0px 0 30px 0;
+}
+
+.hmleasing_steps .pull-right {
+	float: none !important;
+}
+
+.hm_leasprocssinfo .hmleasing_steps:nth-child(6) .hm_lstepimg img {
+	width: 170px;
+}
+
+.hmleasing_steps {
+	padding: 0 0 40px 0;
+	text-align: center;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 18px;
+	margin: 0px 0 65px 0;
+}
+
+.hm_stillinfo {
+	width: 290px;
+	height: 203px;
+	padding: 17px 0 45px 0;
+}
+
+.hm_stillnsure {
+	padding: 100px 0;
+}
+
+.hm_stillinfo p {
+	margin: 25px 0 25px 0px;
+}
+
+.hm_stillinfo h3 {
+	font-size: 25px;
+	margin: 0px 0 24px 0px;
+}
+
+.hm_lstepinfo p {
+	margin: 0 0 15px 16px;
+	width:95%;
+}
+
+.hm_brandsinfo {
+	width: 62%;
+	margin: 0 auto;
+}
+
+.hm_carbrands .col-lg-2 {
+	width: 142px;
+}
+
+.hm_brandsbg {
+	padding: 55px 0 60px 0;
+}
+
+
+.hm_carbrands {
+	margin: 0 auto 60px auto;
+}
+
+.hm_brandsinfo h2 {
+	font-size: 28px;
+}
+
+
+/***homePage-end Lovepreet***/
+
+.view-reviews {
+    margin-top: 35px;
+    margin-bottom: 0px;
+}
+.keep_mail {
+    padding: 60px 0px;
+}
+.view-reviews h4 i {
+    margin-right: 35px;
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+.acdn-title a {
+    padding: 27px 10px;
+}
+.acdn-body {
+    padding: 27px 10px;
+}
+.acdn-title a {
+    font-size: 15px;
+}
+
+.what_differ {
+    width: 100%; margin-top:0px;
+}
+.twopart{ text-align:center;}
+
+
+.min-bud{ width:50%;}
+.home_banner_des .page-title {
+    margin-top: 75px;
+}
+.min-bud {
+    width: 49%;
+    display: inline-block;
+}
+
+.instead-text {
+    display: none;
+}
+.help-car { display:none;}
+
+.mob-vew-adv_search {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.mob-vew-adv_search p{ font-size:16px; color:#33414e; margin-bottom:0px;}
+.mob-vew-adv_search a{ color:#33414e; font-family: 'Aller-Bold';}
+.mob-vew-adv_search a:hover{ color:#ba0c2f;}
+
+.mob-look-instant{ width:100%; background-color:#32404d; padding:15px; text-align:center; display:block; float:left;}
+.mob-look-instant a{ color:#adb3b8; font-size:14px; text-decoration:underline;}
+.mob-look-instant a:hover{ text-decoration:none;}
+.about_banner {
+    height: 435px;
+}
+
+.home-newsletter .input-group .form-control {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.top-head ul li a {
+    padding: 0px 43px;
+}
+.home_banner_des {
+    width: 100%;
+}
+.btn-reset {
+    margin-bottom: 20px;
+}
+.home_banner_des .page-title h1 {
+    font-size: 34px;
+}
+.home_banner_des .page-title p {
+    width: 100%;
+}
+.home_banner {
+    height: 439px;
+}
+.home-bannertext{ display:none;}
+.mob-bannertext{ display:block; color:a7a9ac !important; }
+
+.home_search {
+    position: relative;
+    top: 0;
+}
+
+.home_tab_search .tab-content {
+    padding: 15px;
+}
+.home_tab_search select {
+    margin-right: 0px;
+    border-radius: 3px;
+}
+.search-bottom {
+    text-align: center;
+}
+.help-car {
+    text-align: center;
+}
+.btn-reset {
+    width: 100%;
+}
+
+.btn-search_result {
+    width: 100%;
+}
+.form-inline .modal-select {
+    width: 100%;
+}
+
+.home_tab_search .nav-tabs > li > a {
+    padding: 14px 26px;
+}
+
+.customer-main {
+    background-position: 11px 0px;
+}
+
+
+.veh_sol {
+    padding: 20px;
+}
+.twopart .inner_box1 {
+    border-right: none;
+    border-bottom: 1px solid #e4e5e6;
+}
+
+.twopart .inner_box1 article h2 {
+    font-size: 20px;
+}
+.twopart .inner_box1 article p {
+    font-size: 14px;
+}
+.mightyslider_modern_skin .mSButtons{ height:auto;}
+
+#example .mSButtons.mSPrev {
+    right: auto;
+    bottom: -105px;
+    top: auto;
+}
+#example .mSButtons.mSNext {
+    left: auto;
+    bottom: -105px;
+    top: auto;
+}
+
+.customer-main img{ display:none;}
+.title2 h1 {
+    font-size: 34px;
+}
+#example .frame {
+    height: 100% !important;
+}
+.customer-des {
+    margin-top: 20px;
+}
+.icon.social {
+    margin: 0 5px 0 0;
+}
+.bottom_nav li {
+    float: none;
+    list-style-type: none;
+    text-align: center;
+}
+.author_text {
+    text-align: center;
+}
+.copyright {
+    padding-top: 20px;
+}
+
+.about_blok1 header h2 {
+    width: 100%;
+}
+.about_blok1 header p {
+    width: 100%;
+}
+.padd-rtl {
+    padding-right: 0;
+}
+.about_mg {
+    padding-left: 0;
+    text-align: center;
+}
+.our_partner {
+    padding-left: 0;
+    margin-top: 0;
+}
+.about_top {
+    padding: 60px 0px;
+}
+.about_make header h1 {
+    font-size: 32px;
+}
+.about_blok1 header h1 {
+    font-size: 32px;
+}
+.about_mg {
+    float: left;
+    width: 100%;
+}
+.abt_part2 .panel-title {
+    font-size: 16px;
+}
+.about_three {
+    padding: 70px 0px;
+}
+
+.about_inner .aboutwe {
+    padding: 40px 0px 40px 30px;
+}
+
+.testimonial-content {
+    font-size: 15px !important;
+    text-align: center !important;
+}
+
+.util-theme-default .util-pagination {
+    margin-top: 15px !important;
+}
+
+.block4section {
+    padding: 60px 0px;
+}
+.makes_stus h2 {
+    font-size: 32px;
+}
+
+.four_service {
+    padding: 40px 0px 0px 0px;
+}
+.about_inner .about_mg figure img {
+    margin-top: 50px;
+}
+
+.checkbox {
+    padding-left: 0;
+}
+
+.top_rtl {
+    display: none;
+}
+.top-head ul li:first-child {
+    border-left: none;
+}
+.top-head ul li {
+    display: block;
+    padding-left: 10px;
+    border-right: none;
+    border-bottom: 1px solid #485460;
+}
+.top-head ul li:last-child{ border-bottom:none;}
+.showroom_drop button p {
+    display: none;
+}
+.my_showroom {
+    float: left;
+    margin-left: 0;
+    width: 100%;
+}
+.showroom_drop button {
+    height: 50px;
+    width: 100%;
+}
+
+.middle-head .container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.middle-head .col-lg-6.col-md-7 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.menu .navbar-toggle {
+    border-color: transparent;
+}
+.menu .navbar-toggle {
+    background-color: #33414e;
+    border-radius: 0px;
+    height: 71px;
+    margin:0px;
+    width: 55px;
+}
+.menu .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.menu .navbar-toggle:focus, .menu .navbar-toggle:hover {
+    background-color: #33414e;
+}
+.navbar-brand > img {
+    width: 88px;
+}
+
+
+.menu .navbar-collapse, .menu .navbar-form {
+    border-color: #e4e5e6;
+}
+
+.menu .navbar-nav > li > a {
+    line-height: 14px; border:none; color:#000; font-family: 'Aller';
+}
+.menu .navbar-nav > li > a:focus, .menu .navbar-nav > li > a:hover {
+    border-bottom: none;
+}
+.menu .dropdown a .fa {
+    margin-left: 0px;
+    float: right;
+}
+.menu .dropdown-menu::before {
+    display: none;
+}
+.menu .navbar-nav .dropdown-menu {
+    top: 100%;
+    padding: 10px;
+    background-color: #edeeee;
+    border-radius: 0;
+}
+.ldrop {
+    min-height: 222px;
+}
+.page-title {
+    margin-top: 30px;
+}
+.page-title h1 {
+    font-size: 50px;
+}
+.page-title p {
+    font-size: 14px;
+}
+.site-breadcrum {
+    margin-top: 15px;
+}
+
+
+
+
+
+.menu .navbar-brand {
+    height: auto;
+    padding: 12px 15px;
+}
+
+.middle-head {
+    min-height: 70px;
+    background-color: #fff;
+}
+
+
+.navbar-toggle .icon-bar {
+	width: 22px;
+	-webkit-transition: all 0.2s;
+	transition: all 0.2s; margin:auto;
+}
+
+/* ANIMATED X */
+.navbar-toggle.x .icon-bar:nth-of-type(1) {
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+	-webkit-transform-origin: 10% 10%;
+	-ms-transform-origin: 10% 10%;
+	transform-origin: 10% 10%;
+}
+
+.navbar-toggle.x .icon-bar:nth-of-type(2) {
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+
+.navbar-toggle.x .icon-bar:nth-of-type(3) {
+	-webkit-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	-webkit-transform-origin: 10% 90%;
+	-ms-transform-origin: 10% 90%;
+	transform-origin: 10% 90%;
+}
+
+/* ANIMATED X COLLAPSED */
+.navbar-toggle.x.collapsed .icon-bar:nth-of-type(1) {
+	-webkit-transform: rotate(0);
+	-ms-transform: rotate(0);
+	transform: rotate(0);
+}
+
+.navbar-toggle.x.collapsed .icon-bar:nth-of-type(2) {
+	opacity: 1;
+	filter: alpha(opacity=100);
+}
+
+.navbar-toggle.x.collapsed .icon-bar:nth-of-type(3) {
+	-webkit-transform: rotate(0);
+	-ms-transform: rotate(0);
+	transform: rotate(0);
+}
+/* END ANIMATED X */
+
+
+
+
+.icon-mob { display:block;
+    float: right;
+    margin-right: 18px;
+    line-height: 70px;
+}
+.icon-mob img {
+    width: 28px;
+}
+
+
+}
+
+@media (max-width:680px) {
+
+
+/***homePage Lovepreet***/
+
+	.hm_brandsinfo h2 {
+	font-size: 24px;
+}
+
+
+.hm_brandsinfo {
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+.hm_carbrands {
+	margin: 0 auto 60px auto;
+	width: 100%;
+}
+
+.hm_carbrands .col-lg-2 {
+	width: 142px;
+}
+
+
+/***homePage-end Lovepreet***/
+
+
+}
+
+
+/********************Neeraj 2 css**********/
+
+@media only screen and (min-device-width:220px) and (max-device-width:767px) {
+
+.home-newsletter {
+    padding: 20px;
+    width: 100%;
+    margin: auto;
+}
+.input-group {
+    position: relative;
+    display: block;
+    border-collapse: separate;
+    margin: auto;
+}
+
+
+.home-newsletter .form-control {
+    height: 50px;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid #a7a9ac;
+    border-radius: 0px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.bdnone{
+border-left:1px solid #a7a9ac !importtant;
+
+}
+.home-newsletter .input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+}
+.about_ever {
+    width: 100%;
+    text-align: center;
+    padding: 1px 0px;
+}
+
+.Accr_inr {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.Accr_line {
+    width: 100%;
+    padding: 10px;
+    background: #edeeee;
+}
+ .Accr_inr_box{
+	 width:100%;
+	 text-align:center;
+	 margin:auto;
+	 -webkit-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+-moz-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+background:#ffffff;
+padding:30px;
+ }
+
+.footer-single {
+    text-align: center;
+}
+.footer-single address {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 300;
+}
+.logo {
+    text-align: center;
+}
+.listing_line {
+    width: auto;
+    text-align: center;
+}
+.demopadding {
+    float: none;
+    width: 140px;
+    text-align: center;
+    margin: auto;
+}
+.bottom_nav li a {
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    padding: 9px 10px 0px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+}
+.about_ever {
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+}
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:981px) {
+
+.about_ever {
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+}
+.block4section {
+    width: 100%;
+    padding: 80px 0px;
+    border-bottom: 1px solid #edeeee;
+}
+
+.icon.social {
+    margin: 0 7px 0 0;
+
+
+}
+.Accr_inr {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.Accr_line {
+    width: 100%;
+    padding: 40px 10px;
+    background: #edeeee;
+}
+ .Accr_inr_box{
+	 width:100%;
+	 text-align:center;
+	 margin:auto;
+	 -webkit-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+-moz-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+background:#ffffff;
+padding:30px;
+ }
+
+
+.about_inner .aboutwe {
+    width: 100%;
+    padding: 0px 0px;
+}
+.bottom_nav li a {
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 7px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.about_three {
+    width: 100%;
+    padding: 40px 0px;
+    border-bottom: 1px solid #CCC;
+}
+
+}
+/*@media only screen and (min-device-width:982px) and (max-device-width:1280px) {
+
+
+.icon.social {
+    float: left;
+    margin: 0 7px 0 0;
+    cursor: pointer;
+    border: 1px solid #fff;
+    color: #fff;
+    transition: 0.5s;
+    -moz-transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    color: #000000;
+}
+.Accr_inr {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.Accr_line {
+    width: 100%;
+    padding: 40px 0px;
+    background: #edeeee;
+}
+ .Accr_inr_box{
+	 width:100%;
+	 text-align:center;
+	 margin:auto;
+	 -webkit-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+-moz-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+background:#ffffff;
+padding:30px;
+ }
+
+.about_three {
+    width: 100%;
+    padding: 40px 0px;
+    border-bottom: 1px solid #CCC;
+}
+
+}*/
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    #quote-carousel
+    {
+      margin-bottom: 0;
+     padding: 0 40px 94px 40px;
+    }
+
+}
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+
+    /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+    #quote-carousel .carousel-indicators {
+        bottom: -20px !important;
+    }
+    #quote-carousel .carousel-indicators li {
+        display: inline-block;
+        margin: 0px 5px;
+        width: 15px;
+        height: 15px;
+    }
+    #quote-carousel .carousel-indicators li.active {
+        margin: 0px 5px;
+        width: 20px;
+        height: 20px;
+    }
+}
+
+
+@media (max-device-width:360px) {
+
+/***homePage Lovepreet***/
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 0px 0 0px;
+	padding: 0px 0 15px 0px;
+}
+
+/***homePage-end Lovepreet***/
+
+
+}
+
+@media (min-width:1513px) and (max-width:1700px) {
+.hm_takealookcontt h3 {
+    font-size: 21px;
+}
+
+button.hm_redbtns {
+	padding: 13px 18px;
+}
+
+.hm_takealookcontt p {
+	min-height: 187px;
+}
+}
+
+
+@media (min-width:1200px) and (max-width:1512px) {
+.first-l {
+    min-height: 275px !important;
+}
+.benefits-list {
+    min-height: 385px;
+}
+.last-h {
+    min-height: 255px !important;
+}
+
+
+
+
+	/****search manfacture car list Lovepreet****/
+
+	.audi-title h1 {
+	font-size: 40px;
+}
+
+.audi-title {
+	padding: 30px 0px;
+}
+
+	.sm_cardtlimg figure img {
+	width: 100%;
+	padding: 0 15px;
+}
+
+.sm_carnamsap {
+	margin: 0 0 10px -20px;
+}
+
+.sm_carnamsap  img{ width:100%;}
+
+
+.sm_carnam h3 {
+	margin: 0 0 10px 0;
+}
+
+	/****search manfacture car list end Lovepreet****/
+
+.adv_dlistview .adv_addbtn {
+    font-size: 10px;
+}
+.adv_dlistview .adv_addbtn img {
+    width: 14px;
+}
+
+
+
+
+.hm_blog {
+    margin: 0px 23px;
+}
+.blog_catlable {
+    left: 23px;
+}
+
+.deals-bg {
+    background-size: contain;
+    background-position: left top;
+}
+.refine_checkbox_col {
+    width: 98%;
+}
+.refine_search_col .form-inline .form-control {
+    width: 176px;
+}
+
+
+
+/***homePage Lovepreet***/
+
+.hmpg_support {
+	padding: 158px 0 45px 0;
+}
+
+.hm_supotinfo {
+	padding: 0 25px;
+}
+
+.hm_supotinfo::after {
+	right: -13px;
+}
+
+.hm_leasingamt {
+	padding: 92px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 35px;
+}
+
+.hm_cvofferinfo h2 {
+	font-size: 35px;margin: 40px 0 11px 0;
+}
+
+.hm_oursoinfo h2 {font-size: 35px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 35px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 35px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 21px;
+	width: 55%;
+}
+
+.hm_leasingamtinfo p {
+	width: 77%;
+}
+
+.hm_carvanofr {
+	padding: 95px 0 95px 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 21px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 95px 0 95px 0;
+}
+
+.item_spofrname h4 {
+	font-size: 20px;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 15px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 25px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 44px 44px 44px;
+}
+
+.hm_takealookcontt h3 {
+	font-size: 21px;
+}
+
+.hm_takealookcontt p {
+	min-height: 155px;
+}
+
+button.hm_redbtns {
+	padding: 16px 20px;
+}
+
+.hm_leasprocss {
+	padding: 95px 0 65px 0;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 21px;
+	margin: 0px 0 95px 0;
+}
+
+.hm_brandsinfo {
+	width: 100%;
+	margin: 0 auto;
+}
+
+/***homePage-end Lovepreet***/
+
+
+/***advance-seach Lovepreet***/
+
+.advsrch_tabssectn .advsrch_imgtbs {
+	width: 992px;
+	padding: 20px 0 0 85px;
+}
+
+.advsrch_tabssectn .resp-tabs-container {
+	width: 1170px;
+}
+
+.adv_dlistinam h3 {
+	font-size: 20px;
+}
+
+.adv_dlistinam {
+	padding: 35px 10px 0 0;
+}
+
+.adv_dealslistinfo .col-lg-2 {
+	width: 16%;
+}
+
+.adv_dealslistinfo .col-lg-3 {
+	width: 17%;
+	margin-left: -10px;
+}
+
+.adv_dlistview .adv_viewbtn {
+	padding: 14px 40px;
+}
+
+.advany_shape .advchkbx_lft label {
+	padding: 39px 25px;
+}
+
+/***advance-seach-end Lovepreet***/
+
+/***homePage-end Lovepreet***/
+
+.container{ width:1170px;}
+.menu .navbar-nav > li > a {
+    padding: 15px 6px;
+    line-height:56px;
+    font-size: 13px;
+}
+.navbar-brand > img {
+    width: 70px; margin-top:10px;
+}
+
+.top_phone {
+    width: 180px; margin-top:12px;
+}
+.showroom_drop button {
+    width: 215px;
+}
+.my_showroom .dropdown-menu {
+    min-width: 215px;
+}
+
+.top_phone h4 {
+    font-size: 22px;
+}
+.top_phone p {
+    font-size: 15px;
+}
+.menu .navbar-nav .dropdown-menu {
+    padding: 20px;
+}
+.showbtn ul li {
+    padding: 7px 16px;
+}
+.lis-des {
+    width: 60%;
+}
+.lis-des h6 {
+    font-size: 14px;
+}
+.lis-des p {
+    font-size: 13px;
+}
+.customer-des {
+    margin-top: 0;
+}
+
+.home_banner_des {
+    width: 85%;
+}
+
+.form-inline .modal-select {
+    width: 123px;
+}
+
+
+
+}
+
+/***homePage Lovepreet***/
+@media (max-width:1480px) {
+
+.tklokimg2 {
+	bottom: -5px;
+}
+}
+
+/***homePage-end Lovepreet***/
+
+@media (min-width:992px) and (max-width:1199px) {
+.first-l {
+    min-height: 325px !important;
+}
+.benefits-list {
+    min-height: 485px;
+}
+.last-h {
+    min-height: 255px !important;
+}
+
+
+
+
+
+/****search manfacture car list Lovepreet****/
+
+			.audi-title h1 {
+	font-size: 40px;
+}
+
+.audi-title {
+	padding: 30px 0px;
+}
+
+.audio-content {
+	padding-right: 15px;
+}
+
+.choose_model p a {
+	font-size: 14px;
+}
+
+.audio-content p {
+	font-size: 15px;
+	line-height: 23px;
+	margin-bottom: 15px;
+}
+
+	.sm_cardtlimg figure img {
+	width: 100%;
+	padding: 0 15px;
+}
+
+.sm_carnamsap {
+	margin: 0 0 5px -20px;
+}
+
+.sm_carnamsap  img{ width:100%;}
+
+.sm_carnam h3 {
+	margin: 0 0 5px 0;
+}
+
+.sm_carperrgt h3 {
+	font-size: 22px;
+	line-height: 55px;
+}
+
+.sm_carperlft {
+	height: 45px;
+}
+
+.sm_carperrgt {
+	height: 58px;
+}
+
+	/****search manfacture car list end Lovepreet****/
+
+
+.svr_model .adv_dealslistinfo .col-lg-3 {
+    width: 50%;
+}
+
+
+
+.hm_blog {
+    width: 245px;
+    margin: 0px 25px;
+}
+.blog_catlable {
+    left: 28px;
+  }
+
+
+
+.deals-bg {
+    background-size: contain;
+    background-position: left top;
+}
+.refine_checkbox_col {
+    width: 97%;
+}
+.refine_search_col .form-inline .form-control {
+    width: 143px;
+}
+
+
+/***advance-seach Lovepreet***/
+
+.advsrch_tabssectn .advsrch_imgtbs {
+	width: 970px;
+	padding: 38px 0 0 60px;
+}
+
+.advsrch_tabssectn .resp-tabs-container {
+	width: 970px;
+}
+
+.adv_dlistinam h3 {
+	font-size: 18px;
+}
+
+.adv_dlistinam h5 {
+	font-size: 13px;
+}
+
+.adv_dlistinam {
+	padding: 35px 10px 0 0;
+}
+
+.adv_dealslistinfo .col-lg-1 {
+	width: 30%;
+}
+
+.adv_dealslistinfo .col-lg-2 {
+	width: 30%;
+}
+
+.adv_dealslistinfo .col-lg-3 {
+	width: 30%;
+	margin-left: -10px;
+}
+
+.adv_dealslistinfo .col-lg-5 {
+	width: 60%;
+	margin-left: 0;
+	margin: 30px 0 0 0;
+}
+
+.adv_dealslistinfo .col-lg-4 {
+	width: 40%;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: 30px;
+}
+
+.adv_dlistimg figure img {
+	width: 142px;
+}
+
+.adv_dlistimg {	text-align: center;
+}
+
+.adv_dlistview .adv_viewbtn {
+	padding: 14px 60px;
+}
+
+.ad_titl h1 {
+	font-size: 40px;
+}
+
+.advany_shape .advchkbx_lft label {
+	padding: 31px 25px;
+}
+
+.advchkbx_lft label img {
+	margin: 0px 0 0 20px;
+}
+
+.advothr_shape .advchkbx_lft label h5 {
+	font-size: 10px;
+}
+
+.advchkbx_lft input:checked + label img.adv_activeimg {
+	margin: 0px 0 0 -71px;
+}
+
+
+/***advance-seach-end Lovepreet***/
+
+
+/***homePage Lovepreet***/
+
+.hm_supotinfo {
+	padding: 0 8px;
+}
+
+.hm_supotinfo p {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.hm_supotinfo h4 {
+	margin: 20px 0 11px 0;
+}
+
+.hm_supotinfo::after {
+	right: -11px;
+}
+
+.hm_leasingamt {
+	padding: 52px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 30px;
+}
+
+.hm_cvofferinfo h2 {
+	font-size: 30px;margin: 40px 0 11px 0;
+}
+
+.hm_carvanofr .col-lg-6:first-child .hm_cvofferinfo::after {
+	right: -14px;
+}
+
+.hm_oursoinfo h2 {font-size: 30px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 30px;
+	margin-bottom: 45px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 30px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 18px;
+	width: 62%;
+}
+
+.hm_leasingamtinfo p {
+	width: 87%;
+}
+
+.hm_carvanofr {
+	padding: 55px 0 85px 0;
+}
+
+.item_spofrname h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.hm_carvanofr .col-lg-6:first-child figure img {
+	width: 350px;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure img {
+	width: 380px;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure {
+	padding: 68px 0 0 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 18px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 65px 0 65px 0;
+}
+
+.item_spofrname {
+	padding: 20px 20px 0 20px;
+	min-height: 110px;
+}
+
+.item_spofrname h5 {
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.hm_oursoinfo .normal-imglist .item a .hm_oursodtl figure img {
+	width: 100%;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 10px;
+}
+
+.apofr_price h4 {
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	line-height: 28px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 10px 0;
+	height: 186px;
+}
+
+.hm_takealook {
+	padding: 65px 0 70px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 20px 30px 20px;
+}
+.hm_takealookcontt h3 {
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.hm_takealookcontt p {
+	min-height: 185px;
+}
+
+button.hm_redbtns {
+	padding: 16px 15px;
+	letter-spacing: 1px;
+	font-size: 11.5px;
+}
+
+.hm_leasprocss {
+	padding: 65px 0 5px 0;
+}
+
+.hm_brandsbg {
+	padding: 55px 0 60px 0;
+}
+
+
+.hm_lstepimg {
+	padding: 0 0 0 20px;
+}
+
+.hm_lstepimg img {
+	width: 300px;
+}
+
+.hm_leasprocssinfo .hmleasing_steps:nth-child(6) .hm_lstepimg img {
+	width: 200px;
+}
+
+.hmleasing_steps {
+	padding: 0 0 40px 0;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 18px;
+	margin: 0px 0 65px 0;
+}
+
+.hm_stillinfo {
+	width: 390px;
+	height: 233px;
+	padding: 35px 0 45px 0;
+}
+
+.hm_stillinfo p {
+	margin: 25px 0 25px 0px;
+}
+
+.hm_stillinfo h3 {
+	font-size: 25px;
+	margin: 0px 0 24px 0px;
+}
+
+.hm_lstepinfo h5 {
+	padding: 0 0 4px 50px;
+}
+
+.hm_lstepinfo h4 {
+	font-size: 21px;
+	margin: 0 0 8px 16px;
+	line-height: 29px;
+}
+
+.hm_lstepinfo p {
+	margin: 0 0 15px 16px;
+	width:100%;
+}
+
+.hm_carbrands {
+	margin: 0 auto 60px auto;
+}
+
+
+
+/***homePage-end Lovepreet***/
+
+
+
+
+.home_banner_des {
+    width: 100%;
+}
+
+.form-inline .modal-select {
+    width: 118px;
+}
+
+
+.veh_sol {
+    padding: 40px 50px;
+}
+.customer-des {
+    margin-top: 0;
+}
+.customer-des p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #33414e;
+    margin-bottom: 15px;
+}
+
+#example .mSButtons.mSNext {
+    right: 11%;
+    left: auto;
+    bottom: 30px;
+}
+
+.about_blok1 header h2 {
+    width: 56%;
+}
+.about_blok1 header p {
+    width: 70%;
+}
+.padd-rtl {
+    padding-right: 50px;
+}
+.about_mg {
+    padding-left: 30px;
+}
+.about_inner .aboutwe {
+    padding: 48px 0px 99px 30px;
+}
+.our_partner {
+    padding-left: 60px;
+}
+.Accr_inr {
+    width: 74%;
+}
+
+
+.menu .navbar-nav > li > a {
+    padding: 15px 6px;
+    line-height: 56px;
+    font-size: 12px;
+}
+.navbar-brand > img {
+    width: 70px; margin-top:10px;
+}
+
+.top_phone {
+    display:none;
+}
+.showroom_drop button {
+    width: 215px;
+}
+.my_showroom .dropdown-menu {
+    min-width: 215px;
+}
+
+.top_phone h4 {
+    font-size: 22px;
+}
+.top_phone p {
+    font-size: 15px;
+}
+.menu .navbar-nav .dropdown-menu {
+    padding: 20px;
+}
+.showbtn ul li {
+    padding: 7px 16px;
+}
+.lis-des {
+    width: 60%;
+}
+.lis-des h6 {
+    font-size: 14px;
+}
+.lis-des p {
+    font-size: 13px;
+}
+}
+
+
+
+@media (min-width:768px) and (max-width:991px) {
+
+.bcar_leasing_search {
+    top: -200px;
+}
+.search_brand {
+    padding: 150px 0 95px 0 !important;
+}
+.first-l {
+    min-height: 373px;
+}
+.rtl-noborder {
+    border-right: 1px solid #e4e5e6;
+}
+
+.last-h {
+    min-height: 355px;
+}
+.bm-border0 {
+    border-bottom: 1px solid #edeeee;
+}
+.left-nopadd {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.rtl-nopadd {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.bus_car-des {
+    width: 80%;
+}
+.options-header {
+    width: 80%;
+}
+.cont_main {
+    width: 80%;
+}
+.choose-carhead {
+    width: 72%;
+}
+.still_not {
+    width: 85%;
+}
+
+
+/****search manfacture car list Lovepreet****/
+
+				.audi-title h1 {
+	font-size: 40px;
+}
+
+.audi-title {
+	padding: 30px 0px;
+}
+
+.audio-content {
+	padding-right: 15px;
+	padding-top: 30px;
+}
+
+.choose_model p a {
+	font-size: 14px;
+}
+
+.image-section .item {
+	position: inherit;
+		background: none;
+}
+
+.image-section .image img {
+	display: block;
+	width: 100%;
+}
+
+
+
+.audio-content p {
+	font-size: 15px;
+	line-height: 23px;
+	margin-bottom: 15px;
+}
+
+	.sm_cardtlimg figure img {
+	width: 100%;
+	padding: 0 5px;
+}
+.sm_carnamsap {
+	margin: 0 0 5px 0px;
+	display: none;
+}
+
+.sm_carnamsap  img{ width:100%;}
+
+.sm_carnam h3 {
+	margin:5px 0;
+	font-size: 20px;
+}
+
+
+.sm_carperrgt h3 {
+	font-size: 17px;
+	line-height: 45px;
+}
+
+.sm_carperlft h4 {
+	font-size: 13px;
+	margin: 12px 0 3px 5px;
+}
+
+.sm_carcontt {
+	padding: 0 8px;
+}
+
+.sm_carfeatur ul li {
+	font-size: 13px;
+	line-height: 25px;
+}
+
+.sm_carperlft {
+	height: 36px;
+}
+
+.sm_carperrgt {
+	height:49px;
+}
+
+	/****search manfacture car list end Lovepreet****/
+
+.svr_model .adv_dealslistinfo .col-lg-3 {
+    width: 50%;
+}
+
+
+
+.refine_checkbox_col {
+    width: 97%;
+}
+.refine_search_col .form-inline .form-control {
+    width: 227px;
+margin-bottom: 15px;
+}
+
+
+
+
+.hm_blog {
+    width: 290px;
+    margin: 0px 25px;
+	margin-bottom: 30px;
+}
+.blog_catlable {
+    left: 28px;
+  }
+
+.hm-blogcnter {
+    margin-top: 0;
+}
+
+/***advance-seach Lovepreet***/
+
+.advsrch_tabssectn .advsrch_imgtbs {
+	width: 735px;
+	padding: 38px 0 0 75px;
+}
+
+.advn_container::after {
+	top: 276px;
+}
+
+.advsrch_tabssectn .resp-tabs-container {
+	width: 740px;
+}
+
+.adv_dlistinam h3 {
+	font-size: 18px;
+}
+
+.adv_dlistinam h5 {
+	font-size: 13px;
+}
+
+.adv_dlistinam {
+	padding: 35px 10px 0 0;
+}
+
+.adv_dealslistinfo .col-lg-1 {
+	width: 30%;
+}
+
+.adv_dealslistinfo .col-lg-2 {
+	width: 30%;
+}
+
+.adv_dealslistinfo .col-lg-3 {
+	width: 30%;
+	margin-left: -10px;
+}
+
+.adv_dealslistinfo .col-lg-5 {
+	width: 60%;
+	margin-left: 0;
+	margin: 30px 0 0 0;
+}
+
+.adv_dealslistinfo .col-lg-4 {
+	width: 40%;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: 30px;
+}
+
+.adv_dlistimg figure img {
+	width: 142px;
+}
+
+.adv_dlistimg {	text-align: center;
+}
+
+.adv_dlistview .adv_viewbtn {
+	padding: 14px 60px;
+}
+
+.ad_titl h1 {
+	font-size: 34px;
+	padding: 10px 0 0 0;
+}
+.advany_shape .advchkbx_lft label {
+	padding: 0;
+	line-height: 112px;
+}
+.advsrch_tabssectn .resp-tabs-list li .advsrch_tabnm {
+	margin: 5px 0 2px 0;
+	font-size: 14px;
+}
+
+.ad_titl {
+	text-align: center;
+}
+
+.advany_shape {
+	float: none;
+	width: 100%;
+	height: 120px;
+}
+
+.advothr_shape {
+	width: 100%;
+	float: none;
+	height: auto;
+	border: none;
+}
+
+.advchkbx_lft label {
+	border: 1px solid #C1C6CA;
+}
+
+.advany_shape .advchkbx_lft label {
+	border: 1px solid #C1C6CA;
+}
+
+
+
+.advchkbx_lft input:checked + label {
+	border: solid 1px #BA0C2F;
+}
+
+
+
+.advchkbx_lft {
+	float: left;
+	width: 24.8%;
+	margin: 0 1px 1px 0;
+}
+
+.advchkbx_lft:nth-child(4n+4) {
+	margin-right: 0;
+}
+
+.advothr_shape .advchkbx_lft label::after {
+	width: 118px;
+}
+
+.advsrch_tabssectn .resp-tabs-list li {
+	padding: 13px 20px 24px 20px;
+}
+
+.advsrch_tabssectn .resp-tabs-list li .advimgtbs_img img {
+	width: 40px;
+}
+
+.adv_dealsfound {
+	padding: 9px 22px 12px 21px;
+}
+
+.advpg_sortby select {
+	height: 48px;
+}
+
+.advchkbx_lft label img {
+	margin: 0px 0 0 52px;
+}
+
+
+.advothr_shape .advchkbx_lft label h5 {
+	font-size: 10px;
+}
+
+.advchkbx_lft input:checked + label img.adv_activeimg {
+	margin: 0px 0 0 -111px;
+}
+
+/***advance-seach-end Lovepreet***/
+
+/***homePage Lovepreet***/
+
+.hm_supotinfo {
+	padding: 0 0px;
+}
+
+.hm_supotinfo p {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.hmpg_support {
+	padding: 158px 0 25px 0;
+}
+
+.hm_supotinfo h4 {
+	margin: 20px 0 11px 0;
+}
+
+.hm_supotinfo::after {
+	right: -13px;
+}
+
+.hm_leasingamt {
+	padding: 35px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+
+.hm_cvofferinfo h2 {
+	font-size: 24px;margin: 25px 0 11px 0;
+}
+
+.hm_carvanofr .col-lg-6:first-child .hm_cvofferinfo::after {
+	right: -14px;
+}
+
+
+.hm_oursoinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 24px;
+}
+
+.hm_brandsinfo h2 {
+	font-size: 34px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 24px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 16px;
+	width: 71%;
+	line-height: 26px;
+}
+
+.hm_leasingamtinfo p {
+	width: 95%;
+}
+
+.hm_viewspobtn {
+	padding: 35px 0 0 0;
+}
+
+.hm_carvanofr {
+	padding: 20px 0 65px 0;
+}
+
+.item_spofrname h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.hm_carvanofr .col-lg-6:first-child figure img {
+	width: 290px;
+}
+
+.hm_cvofferinfo p {
+	font-size: 15px;
+	line-height: 24px;
+	width: 92%;
+	margin: 0 auto 35px auto;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure img {
+	width: 320px;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure {
+	padding: 75px 0 0 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 18px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 55px 0 55px 0;
+}
+
+.item_spofrname {
+	padding: 20px 20px 0 20px;
+	min-height: 110px;
+}
+
+.item_spofrname h5 {
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.hm_oursoinfo .normal-imglist .item a .hm_oursodtl figure img {
+	width: 100%;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 10px;
+}
+
+.apofr_price h4 {
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	line-height: 28px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+	height: 160px;
+}
+
+.hm_takealookdtl figure .tklokimg img {
+	height: auto;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg1 {
+	bottom: -2px;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 0px 0;
+	height: 166px;
+}
+
+.hm_takealookdtl {
+	margin:0;
+}
+
+.hm_brandsbg {
+	padding: 55px 0 60px 0;
+}
+
+.hm_takealook {
+	padding: 55px 0 60px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 20px 30px 20px;
+}
+.hm_takealookcontt h3 {
+	font-size: 15px;
+	line-height: 21px;
+}
+
+.hm_takealookcontt p {
+	min-height: 195px;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+button.hm_redbtns {
+	padding: 16px 10px;
+	letter-spacing: 0.5px;
+	font-size: 11px;
+}
+
+.hm_leasprocss {
+	padding: 40px 0 5px 0;
+}
+
+.hm_lstepinfo h5 {
+	padding: 0 0 4px 50px;
+}
+
+.hm_lstepinfo h4 {
+	font-size: 21px;
+	margin: 0 0 8px 16px;
+	line-height: 29px;
+}
+
+.hm_lstepimg {
+	padding: 0 0 0 20px;
+}
+
+.hm_lstepimg img {
+	width: 250px;
+	margin: 50px 0 0 0;
+}
+
+.hm_leasprocssinfo .hmleasing_steps:nth-child(6) .hm_lstepimg img {
+	width: 170px;
+}
+
+.hmleasing_steps {
+	padding: 0 0 40px 0;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 18px;
+	margin: 0px 0 65px 0;
+}
+
+.hm_stillinfo {
+	width: 340px;
+	height: 223px;
+	padding: 27px 0 45px 0;
+}
+
+.hm_stillinfo p {
+	margin: 25px 0 25px 0px;
+}
+
+.hm_stillinfo h3 {
+	font-size: 25px;
+	margin: 0px 0 24px 0px;
+}
+
+.hm_lstepinfo p {
+	margin: 0 0 15px 16px;
+	width:95%;
+}
+
+.hm_carbrands .col-lg-2 {
+	width: 130px;
+}
+
+.hm_carbrands {
+	margin: 0 auto 60px auto;
+}
+
+
+.hm_takealookinfo h2 {
+	font-size: 34px;
+}
+
+
+/***homePage-end Lovepreet***/
+
+
+
+
+.home_banner_des .page-title {
+    margin-top: 45px;
+}
+
+
+.form-inline .modal-select {
+    width: 282px;
+    margin-bottom: 15px;
+}
+
+
+.home_banner_des {
+    width: 100%;
+}
+.page-title h1 {
+    font-size: 42px;
+}
+.home_banner_des .page-title p {
+    width: 94%;
+}
+
+
+.footer-single {
+    margin-bottom: 40px;
+}
+.author_text {
+    text-align: center; padding-top:0px;
+}
+
+.customer-des {
+    margin-top: 0;
+}
+.customer-des h6 {
+    font-size: 12px;
+ }
+.customer-des p {
+    font-size: 12px;
+    line-height: 15px;
+    color: #33414e;
+    margin-bottom: 10px;
+}
+.title2 h1 {
+    font-size: 32px;
+}
+.Accr_inr_box{ width:100%;}
+
+.twopart .inner_box1 {
+    border-bottom: 1px solid #e4e5e6;
+	border-right:none;
+}
+
+.about_blok1 header h2 {
+    width: 75%;
+}
+.about_blok1 header p {
+    width: 86%;
+}
+.padd-rtl {
+    padding-right: 0;
+}
+.about_mg {
+    padding-left: 0;
+    text-align: center;
+}
+.our_partner {
+    padding-left: 0;
+    margin-top: 0;
+}
+
+
+.navbar-brand {
+    float: none;
+}
+.navbar-brand > img {
+    width: 80px;
+}
+.middle-head {
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+}
+.menu .navbar-nav .dropdown-menu {
+    padding: 10px;
+}
+.ldrop {
+    min-height: 243px;
+}
+
+}
+
+@media (max-width:767px) {
+.bus_car-des {
+    width: 100%;
+}
+.bus_car-des h1 {
+    font-size: 42px;
+}
+.bus_car_col {
+    padding: 65px 0px 70px 0px;
+}
+.rtl-nopadd {
+    padding-right: 15px;
+}
+.benefits-list {
+    border-right: none;
+}
+.no-padd {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.left-nopadd {
+    padding-left: 15px;
+}
+.bm-border0 {
+    border-bottom: 1px solid #e4e5e6;
+}
+.last-h {
+    min-height: auto;
+}
+.benefits-list {
+    min-height: auto;
+}
+.options-header {
+    width: 100%;
+}
+.cont_main {
+    width: 100%;
+}
+.choose-carhead {
+    width: 85%;
+
+}
+.still_not {
+    width: 90%;
+}
+.choose-car {
+    padding: 90px 0px 85px 0px;
+}
+
+
+/****search manfacture car list Lovepreet****/
+
+		.audi-title h1 {
+	font-size: 40px;
+}
+
+.choose_model .form-control {
+	width: 83%;
+}
+
+.audi-title {
+	padding: 30px 0px;
+}
+
+.audio-content {
+	padding-right: 0;
+	padding-top: 30px;
+}
+
+.choose_model p a {
+	font-size: 14px;
+}
+
+.image-section .item {
+	position: inherit;
+		background: none;
+}
+
+.image-section .image img {
+	display: block;
+	width: 100%;
+}
+
+
+
+.audio-content p {
+	font-size: 15px;
+	line-height: 23px;
+	margin-bottom: 15px;
+}
+
+
+	.sm_cardtlimg figure img {
+	width: 100%;
+	padding: 0 5px;
+}
+.sm_carnamsap {
+	margin: 0 0 5px 0px;
+}
+
+.sm_carnam {
+	text-align: center;
+}
+
+.sm_carfeatur {
+	text-align: center;
+}
+
+.sm_cardtl {
+	margin-bottom: 35px;
+}
+
+.sm_carinfo {
+	margin: 0;
+}
+
+.sm_carnamsap  img{ width:100%;}
+
+.sm_carnam h3 {
+	margin:5px 0;
+	font-size: 20px;
+}
+
+
+.sm_carperrgt h3 {
+	font-size: 17px;
+	line-height: 45px;
+}
+
+.sm_carperlft h4 {
+	font-size: 13px;
+	margin: 12px 0 3px 5px;
+}
+
+.sm_carcontt {
+	padding: 0 8px;
+}
+
+.sm_carfeatur ul li {
+	font-size: 13px;
+	line-height: 25px;
+}
+
+.sm_carperlft {
+	height: 36px;
+}
+
+.sm_carperrgt {
+	height:49px;
+}
+
+	/****search manfacture car list end Lovepreet****/
+
+.image-section .image img {
+    display: block;
+}
+.image-section .image {
+    padding: 0;
+    height: auto;
+    background: 0 0;
+        background-image: none;
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+}
+
+
+.mob_audiimg{ display:block;}
+.svr_model .adv_dealslistinfo .col-lg-3 {
+    width: 100%;
+}
+.svr_model .adv_dlistinam::after {
+    display: none;
+}
+.svr_model .adv_dlistimg {
+    padding: 18px 0;
+}
+.svr_model .adv_carspeci {
+    border-top: 1px solid #e4e5e6;
+    padding-top: 25px;
+}
+.adv_dlistview {
+    padding-bottom: 15px;
+}
+.advance_srchpglist {
+    padding: 45px 0 45px 0;
+}
+
+.refine_checkbox_col {
+    width:92%; padding: 0px 39px;
+}
+.refine_search_col .form-inline .form-control {
+    width:100%;
+margin-bottom: 15px; margin: auto;
+}
+
+.refine_search_col .form-control {
+    border-radius: 3px;
+}
+
+
+.sitebread-inner ul li {
+    margin-bottom: 10px;
+}
+.audi-title h1 img {
+    display: block;
+    margin: auto auto 30px auto;
+}
+.audi-title h1 {
+	text-align: center;
+	font-size: 24px;
+}
+
+.deals-bg {
+    background-color: #edeeee;
+    background-image: none;
+}
+.advance_srchpg h2 {
+    text-align: center;
+}
+.refine_colpsfiltr {
+    text-align: center;
+}
+.btn-refine {
+    padding: 15px 74px;
+}
+
+
+.simple_carousel .frame {
+    height: 645px;
+}
+.btn-clear {
+    display: block;
+    margin: 15px auto auto;
+}
+.vr_slider {
+    padding-bottom: 0 !important;
+}
+
+
+.hm_blog {
+    width:100%;
+    margin: 0px 0px 30px;
+}
+.blog_catlable {
+    left: 15px; border-top-left-radius: 0; border-bottom-left-radius: 0;
+  }
+
+.hm-blogcnter {
+    margin-top: 0;
+}
+
+.main-section {
+    padding: 70px 0px 75px;
+}
+
+
+/***advance-seach Lovepreet***/
+
+.adv_dealsfound {
+	padding: 9px 22px 12px 21px;
+	text-align: center;
+	display: block;
+	margin: 0 0 25px 0;
+}
+
+.advpg_sortby select {
+	height: 48px;
+	width:100%;
+}
+
+.advpg_sortby {
+	float: none;
+}
+
+.resp-tab-active {
+	color: #BA0C2F;
+}
+
+.adv_innrlinks ul li {
+	float: none;
+	margin: 0 0 1px 0;
+}
+
+.adv_innrlinks ul li a {
+	display: block;
+}
+
+.adv_innrlinks ul li:last-child a {
+	border-radius: 0px 3px 3px 0px;
+	border-left: solid 1px #A7A9AC;
+}
+
+
+
+.adv_innrlinks {
+	width: 210px;
+	margin: 0 auto;
+}
+
+
+
+.advsrch_tabssectn .advsrch_imgtbs {
+	width: 735px;
+	padding: 38px 0 0 75px;
+}
+
+.advn_container::after {
+	top: 276px;
+	background: none;
+}
+
+.advcars_vans.advnclftlink {
+	float: none;
+	text-align: center;
+}
+
+.ad_restfiltr {
+	text-align: center;
+	padding: 10px 0 0 0;
+}
+
+.adv_topcolps {
+	text-align: center;
+}
+
+.adv_topcolps button {
+	margin: 20px 0 0 0;
+}
+
+.advsrch_tabssectn .resp-tabs-container {
+	width: 100%;
+}
+
+.adv_dlistinam h3 {
+	font-size: 18px;
+}
+
+.adv_dlistinam h5 {
+	font-size: 13px;
+}
+
+.adv_dlistinam {
+	padding: 35px 10px 0 0;
+}
+
+.adv_dealslistinfo .col-lg-1 {
+	width: 100%;
+}
+
+.adv_dealslistinfo .col-lg-2 {
+	width: 100%;
+}
+
+.adv_dealslistinfo .col-lg-3 {
+	width: 100%;
+	margin-left: -10px;
+}
+
+.adv_dealslistinfo .col-lg-5 {
+	width: 100%;
+	margin-left: 0;
+	margin: 30px 0 0 0;
+}
+
+.adv_dealslistinfo .col-lg-4 {
+	width: 100%;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: 30px;
+}
+
+.table.adv_outrtbleinfo .table-responsive {
+	border: none;
+}
+
+.adv_dlistimg figure img {
+	width: 100%;
+}
+
+.adv_dlistimg {
+	text-align: center;
+	padding: 35px 0;
+}
+
+.adv_dlistimg figure figcaption {
+	width: 150px;
+	margin: 0 auto;
+}
+
+.adv_dlistinam {
+	padding: 35px 10px 35px 0;
+	text-align: center;
+}
+
+.adv_namspofr {
+	right: 0;
+	width: 150px;
+	margin: 0 auto;
+}
+
+.adv_carspeci {
+	width: 220px;
+	margin: 0 auto;
+}
+
+.adv_carspeci ul li {
+	text-align: center;
+}
+
+.adv_dlistview .adv_viewbtn {
+	padding: 14px 60px;
+}
+
+.ad_titl h1 {
+	font-size: 34px;
+	padding: 10px 0 0 0;
+}
+.advany_shape .advchkbx_lft label {
+	padding: 0;
+	line-height: 112px;
+}
+.advsrch_tabssectn .resp-tabs-list li .advsrch_tabnm {
+	margin: 5px 0 2px 0;
+	font-size: 14px;
+}
+
+.ad_titl {
+	text-align: center;
+}
+
+.advany_shape {
+	float: none;
+	width: 100%;
+	height: 120px;
+}
+
+.advothr_shape {
+	width: 100%;
+	float: none;
+	height: auto;
+	border: none;
+}
+
+.advchkbx_lft label {
+	border: 1px solid #C1C6CA;
+}
+
+.advany_shape .advchkbx_lft label {
+	border: 1px solid #C1C6CA;
+}
+
+
+
+.advchkbx_lft input:checked + label {
+	border: solid 1px #BA0C2F;
+}
+
+
+
+.advchkbx_lft {
+	float: left;
+	width: 33%;
+	margin: 0 1px 1px 0;
+}
+
+.advchkbx_lft:nth-child(4n+4) {
+	margin-right: 0;
+}
+
+.advsrch_tabssectn .resp-tab-content {
+	border: solid 1px #ddd;
+	padding: 90px;
+	margin-bottom: 0;
+}
+
+.sitebread-inner {
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+
+.advothr_shape .advchkbx_lft label::after {
+	width: 118px;
+}
+
+.advsrch_tabssectn .resp-tabs-list li {
+	padding: 13px 20px 24px 20px;
+}
+
+.advsrch_tabssectn .resp-tabs-list li .advimgtbs_img img {
+	width: 40px;
+}
+
+.advsrch_tabssectn .resp-arrow {
+	width: 0;
+	height: 0;
+	float: right;
+	margin-top: 43px;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 12px solid #BA0C2F;
+}
+
+.advchkbx_lft label img {
+	width: 58px;
+	margin: 0px 0 0 30%;
+}
+
+
+.advchkbx_lft input:checked + label img.adv_activeimg {
+	opacity: 1;
+	margin: 0px 0 0 -60%;
+}
+
+/***advance-seach-end Lovepreet***/
+
+
+
+/***homePage Lovepreet***/
+
+.hm_supotinfo {
+	padding: 0 0px;
+	margin: 0 0 40px 0;
+}
+
+.hm_supotinfo p {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.hmpg_support {
+	padding: 50px 0 5px 0;
+}
+
+.hm_supotinfo h4 {
+	margin: 20px 0 11px 0;
+}
+
+.hm_supotinfo::after {
+	right: -13px;
+	background: none;
+}
+
+
+
+.hm_leasingamt {
+	padding: 35px 0;
+}
+
+.hm_leasingamtinfo h2 {
+	font-size: 23px;
+	margin-bottom: 15px;
+}
+
+
+.hm_cvofferinfo h2 {
+	font-size: 24px;margin: 25px 0 11px 0;
+}
+
+.hm_oursoinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_takealookinfo h2 {
+	font-size: 24px;
+	margin-bottom: 25px;
+}
+
+.hm_leasprocssinfo h2 {
+	font-size: 24px;
+}
+
+.hm_leasingamtinfo h4 {
+	font-size: 16px;
+	width: 71%;
+	line-height: 26px;
+}
+
+.hm_leasingamtinfo p {
+	width: 98%;
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.hm_viewspobtn {
+	padding: 35px 0 0 0;
+}
+
+.hm_carvanofr {
+	padding: 20px 0 45px 0;
+	background-size: 100% 17%;
+}
+
+.hm_carvanofr .col-lg-6:first-child .hm_cvofferinfo::after {
+	background:none;
+}
+
+.item_spofrname h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.hm_carvanofr .col-lg-6:first-child figure img {
+	width: 280px;
+}
+
+.hm_cvofferinfo p {
+	font-size: 15px;
+	line-height: 24px;
+	width: 98%;
+	margin: 0 auto 35px auto;
+}
+
+.hm_carvanofr .col-lg-6:last-child figure img {
+	width: 290px;
+}
+
+
+.hm_carvanofr .col-lg-6:last-child figure {
+	padding: 75px 0 0 0;
+}
+
+.hm_cvofferinfo h4 {
+	font-size: 18px;
+	margin: 0 auto 10px auto;
+}
+
+.hm_ourspoffr {
+	padding: 35px 0 35px 0;
+}
+
+.item_spofrname {
+	padding: 20px 5px 0 5px;
+	min-height: inherit;
+}
+
+.apofr_price {
+	padding: 15px 5px 0 5px;
+}
+
+.item_spofrname h5 {
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.hm_oursoinfo .normal-imglist .item a .hm_oursodtl figure img {
+	width: 100%;
+}
+
+.item_spofrname h5 {
+	font-size: 15px;
+}
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 10px 0 0px;
+	padding: 15px 0 20px 15px;
+}
+
+.hm_oursodtl:hover {
+	transition: all 0.4s ease;
+	box-shadow: 1px 7px 10px 2px rgba(0,0,0,0.2);
+}
+
+
+.apofr_price h4 {
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	line-height: 28px;
+}
+
+.hm_takealookinfo {
+	padding: 0 15px;
+}
+
+.hm_takealookdtl figure img {
+	transform: translateY(-17px);
+	width: 100%;
+	height: auto;
+}
+
+.hm_takealookdtl figure .tklokimg img {
+	height: auto;
+	display: none;
+}
+
+.tklokimg1 {
+	bottom: -2px;display: none;
+}
+
+.tklokimg1 {
+	bottom: -2px;display: none;
+}
+
+.tklokimg2 {
+	bottom: 10px;
+	display: none;
+}
+
+.hm_takealookdtl figure {
+	margin: 0 0 0px 0;
+	height: auto;
+}
+
+.hm_takealookdtl {
+	margin: 0 0 50px 0;
+}
+
+.hm_takealook {
+	padding: 55px 0 5px 0;
+}
+
+.hm_takealookcontt {
+	padding: 0 20px 30px 20px;
+}
+.hm_takealookcontt h3 {
+	font-size: 15px;
+	line-height: 21px;
+}
+
+.hm_takealookcontt p {
+	min-height: inherit;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+button.hm_redbtns {
+	padding: 16px 15px;
+	letter-spacing: 0.5px;
+	font-size: 11px;
+}
+
+.hm_leasprocss {
+	padding: 40px 0 5px 0;
+}
+
+.hm_lstepinfo h5 {
+	padding: 0 0 4px 50px;
+	display: inline-block;
+}
+
+.hm_lstepinfo h4 {
+	font-size: 21px;
+	margin: 0 0 8px 16px;
+	line-height: 29px;
+}
+
+.hm_lstepimg {
+	padding: 0 0 0 20px;
+}
+
+.hm_lstepimg img {
+	width: 200px;
+	margin: 0px 0 30px 0;
+}
+
+.hmleasing_steps .pull-right {
+	float: none !important;
+}
+
+.hm_leasprocssinfo .hmleasing_steps:nth-child(6) .hm_lstepimg img {
+	width: 170px;
+}
+
+.hmleasing_steps {
+	padding: 0 0 40px 0;
+	text-align: center;
+}
+
+.hm_leasprocssinfo h3 {
+	font-size: 18px;
+	margin: 0px 0 65px 0;
+}
+
+.hm_stillinfo {
+	width: 290px;
+	height: 203px;
+	padding: 17px 0 45px 0;
+}
+
+.hm_stillnsure {
+	padding: 100px 0;
+}
+
+.hm_stillinfo p {
+	margin: 25px 0 25px 0px;
+}
+
+.hm_stillinfo h3 {
+	font-size: 25px;
+	margin: 0px 0 24px 0px;
+}
+
+.hm_lstepinfo p {
+	margin: 0 0 15px 16px;
+	width:95%;
+}
+
+.hm_brandsinfo {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.hm_carbrands .col-lg-2 {
+	width: 50%;
+}
+
+.hm_brandsbg {
+	padding: 55px 0 60px 0;
+}
+
+
+.hm_carbrands {
+	margin: 0 auto 60px auto;
+}
+
+.hm_brandsinfo h2 {
+	font-size: 28px;
+}
+
+/***advance-seach-end Lovepreet***/
+.advchkbx_lft label img {
+	width: 58px;
+	margin: 0px 0 0 35%;
+
+}
+
+.advchkbx_lft input:checked + label img.adv_activeimg {
+	opacity: 1;
+	margin: 0px 0 0 -65%;
+}
+
+/***advance-seach-end Lovepreet***/
+
+}
+
+
+/********************Neeraj 2 css**********/
+
+@media only screen and (min-device-width:220px) and (max-device-width:767px) {
+
+.home-newsletter {
+    padding: 20px;
+    width: 100%;
+    margin: auto;
+}
+.input-group {
+    position: relative;
+    display: block;
+    border-collapse: separate;
+    margin: auto;
+}
+
+
+.home-newsletter .form-control {
+    height: 50px;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid #a7a9ac;
+    border-radius: 0px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.bdnone{
+border-left:1px solid #a7a9ac !importtant;
+
+}
+.home-newsletter .input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.about_ever {
+    width: 100%;
+    text-align: center;
+    padding: 1px 0px;
+}
+
+.Accr_inr {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.Accr_line {
+    width: 100%;
+    padding: 10px;
+    background: #edeeee;
+}
+ .Accr_inr_box{
+	 width:100%;
+	 text-align:center;
+	 margin:auto;
+	 -webkit-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+-moz-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+background:#ffffff;
+padding:30px;
+ }
+
+.footer-single {
+    text-align: center;
+}
+.footer-single address {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 300;
+}
+.logo {
+    text-align: center;
+}
+.listing_line {
+    width: auto;
+    text-align: center;
+}
+.demopadding {
+    float: none;
+    width: 140px;
+    text-align: center;
+    margin: auto;
+}
+.bottom_nav li a {
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    padding: 9px 10px 0px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+}
+.about_ever {
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+}
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:981px) {
+
+.about_ever {
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+}
+.block4section {
+    width: 100%;
+    padding: 80px 0px;
+    border-bottom: 1px solid #edeeee;
+}
+
+.icon.social {
+    margin: 0 7px 0 0;
+
+
+}
+.Accr_inr {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.Accr_line {
+    width: 100%;
+    padding: 40px 10px;
+    background: #edeeee;
+}
+ .Accr_inr_box{
+	 width:100%;
+	 text-align:center;
+	 margin:auto;
+	 -webkit-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+-moz-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+background:#ffffff;
+padding:30px;
+ }
+
+
+.about_inner .aboutwe {
+    width: 100%;
+    padding: 0px 0px;
+}
+.bottom_nav li a {
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 7px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.about_three {
+    width: 100%;
+    padding: 40px 0px;
+    border-bottom: 1px solid #CCC;
+}
+
+}
+/*@media only screen and (min-device-width:982px) and (max-device-width:1280px) {
+
+
+.icon.social {
+    float: left;
+    margin: 0 7px 0 0;
+    cursor: pointer;
+    border: 1px solid #fff;
+    color: #fff;
+    transition: 0.5s;
+    -moz-transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    color: #000000;
+}
+.Accr_inr {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.Accr_line {
+    width: 100%;
+    padding: 40px 0px;
+    background: #edeeee;
+}
+ .Accr_inr_box{
+	 width:100%;
+	 text-align:center;
+	 margin:auto;
+	 -webkit-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+-moz-box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+box-shadow: -5px 8px 20px 6px rgba(237,238,238,2);
+background:#ffffff;
+padding:30px;
+ }
+
+.about_three {
+    width: 100%;
+    padding: 40px 0px;
+    border-bottom: 1px solid #CCC;
+}
+
+}*/
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    #quote-carousel
+    {
+      margin-bottom: 0;
+     padding: 0 40px 94px 40px;
+    }
+
+}
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+
+    /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+    #quote-carousel .carousel-indicators {
+        bottom: -20px !important;
+    }
+    #quote-carousel .carousel-indicators li {
+        display: inline-block;
+        margin: 0px 5px;
+        width: 15px;
+        height: 15px;
+    }
+    #quote-carousel .carousel-indicators li.active {
+        margin: 0px 5px;
+        width: 20px;
+        height: 20px;
+    }
+}
+
+/***advance-seach Lovepreet***/
+
+
+@media (max-device-width:568px) {
+
+.advcars_vans ul li {
+	float: none;
+	margin: 0 0 1px 0;
+}
+
+.advcars_vans ul li a {
+	display: block;
+}
+
+.advcars_vans ul li.ad_spofr a {
+	border-left: solid 1px #A7A9AC;
+}
+
+.advchkbx_lft {
+	float: none;
+	width: 100%;
+	margin: 0 1px 1px 0;
+}
+
+.advchkbx_lft label {
+	padding: 5px 0px 5px 0px;
+	height: 90px;
+}
+
+.advany_shape .advchkbx_lft label {
+	padding: 0;
+	line-height: 72px;
+	height: 90px;
+}
+
+.advany_shape {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.advchkbx_lft label img {
+	width: 58px;
+	margin: 0px 0 0 42%;
+}
+
+.advchkbx_lft input:checked + label img.adv_activeimg {
+	opacity: 1;
+	margin: 0px 0 0 -55%;
+}
+
+.advothr_shape .advchkbx_lft label h5 {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 9;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-family: 'Aller-Bold';
+	letter-spacing: 1px;
+	color: #33414E;
+}
+
+.advsrch_tabssectn .resp-tab-content {
+	padding: 60px;
+}
+
+
+}
+
+
+/***advance-seach  Lovepreet***/
+
+@media (max-device-width:480px) {
+
+
+.advsrch_tabssectn .resp-tab-content {
+	padding: 68px;
+}
+
+
+.advchkbx_lft label img {
+	width: 58px;
+	margin: 0px 0 0 38%;
+}
+
+.advchkbx_lft input:checked + label img.adv_activeimg {
+	opacity: 1;
+	margin: 0px 0 0 -59%;
+}
+
+
+}
+
+/***advance-seach end Lovepreet***/
+
+/***advance-seach end Lovepreet***/
+
+@media (max-device-width:360px) {
+
+/***homePage Lovepreet***/
+
+.hm_oursoinfo .normal-imglist .item {
+	margin: 5px 0px 0 0px;
+	padding: 0px 0 15px 0px;
+}
+
+/***homePage-end Lovepreet***/
+
+
+/***advance-seach Lovepreet***/
+
+.ad_titl h1 {
+	font-size: 28px;
+	padding: 0px 0 0 0;
+}
+
+.advchkbx_lft label img {
+	width: 58px;
+	margin: 0px 0 0 39%;
+}
+
+.advchkbx_lft input:checked + label img.adv_activeimg {
+	opacity: 1;
+	margin: 0px 0 0 -60%;
+}
+
+
+/***advance-seach end---Lovepreet***/
+
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .a, .b {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .a {
+        stroke: #000;
+      }
+
+      .b {
+        stroke: #ba0c2f;
+      }
+    </style>
+  </defs>
+  <title>manufacturer</title>
+  <g>
+    <circle class="a" cx="30" cy="30" r="28.5"/>
+    <circle class="a" cx="30" cy="30" r="22.5"/>
+    <path class="a" d="M34.49,48a18.65,18.65,0,0,1-9,0"/>
+    <path class="a" d="M46.7,22a18.43,18.43,0,0,1,1.8,8,18.66,18.66,0,0,1-.18,2.59"/>
+    <path class="a" d="M52.33,32.69A15.44,15.44,0,0,0,35,51.93"/>
+    <path class="a" d="M25,51.93A15.41,15.41,0,0,0,7.67,32.69"/>
+    <path class="a" d="M8.34,23.92A53.37,53.37,0,0,1,30,19.5a53.37,53.37,0,0,1,21.66,4.42"/>
+    <circle class="b" cx="30" cy="30" r="4.5"/>
+    <path class="a" d="M11.66,32.48A18.67,18.67,0,0,1,11.5,30a18.43,18.43,0,0,1,1.8-8"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .a, .b {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .a {
+        stroke: #000;
+      }
+
+      .b {
+        stroke: #ba0c2f;
+      }
+    </style>
+  </defs>
+  <title>engine</title>
+  <g>
+    <polygon class="a" points="55.5 51.5 58.5 51.5 58.5 21.5 55.5 21.5 51.5 32.5 51.5 45.5 55.5 51.5"/>
+    <rect class="a" x="5.5" y="26.5" width="5" height="18"/>
+    <line class="a" x1="1.5" y1="41.5" x2="1.5" y2="29.5"/>
+    <line class="a" x1="1.5" y1="35.5" x2="4.5" y2="35.5"/>
+    <line class="a" x1="51.5" y1="45.5" x2="46.5" y2="45.5"/>
+    <line class="a" x1="51.5" y1="32.5" x2="46.5" y2="32.5"/>
+    <polygon class="a" points="10.5 20.5 10.5 44.5 15.5 51.5 42.5 51.5 46.5 45.5 46.5 32.5 43.5 26.5 39.5 26.5 39.5 20.5 10.5 20.5"/>
+    <polyline class="a" points="28.5 15.5 35.5 15.5 35.5 8.5 15.5 8.5 15.5 15.5 22.5 15.5"/>
+    <line class="a" x1="20.5" y1="15.5" x2="20.5" y2="20.5"/>
+    <line class="a" x1="30.5" y1="15.5" x2="30.5" y2="20.5"/>
+    <line class="a" x1="39.5" y1="26.5" x2="39.5" y2="32.5"/>
+    <line class="a" x1="39.5" y1="36.5" x2="39.5" y2="39.5"/>
+    <polyline class="b" points="22.5 26.5 29.5 26.5 26.5 33.5 32.5 33.5 23.5 46.5 25.5 36.5 18.5 36.5 21.3 29.5"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>car-shape-people-carrier</title>
+  <g>
+    <circle class="a" cx="10.77" cy="39.54" r="4.46"/>
+    <circle class="a" cx="49.77" cy="39.54" r="4.46"/>
+    <line class="a" x1="45" y1="40" x2="19" y2="40"/>
+    <path class="a" d="M55,40h1c3,0,3-5,3-7,0-1-5-7-15-7H10a35.48,35.48,0,0,1-7-1"/>
+    <path class="a" d="M6,40,1,39V34c0-2,2-7,2-9s5-9,9-9H31c8,0,17,10,17,10"/>
+    <polyline class="a" points="28 16 30 25 30 37"/>
+    <line class="a" x1="34" y1="31" x2="36" y2="31"/>
+    <line class="a" x1="19" y1="31" x2="21" y2="31"/>
+    <line class="a" x1="17" y1="16" x2="15" y2="26"/>
+    <line class="a" x1="15" y1="26" x2="15" y2="32.5"/>
+  </g>
+</svg>
